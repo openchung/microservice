@@ -1,4 +1,4 @@
-FROM python-base:latest
+FROM 192.168.5.128:8080/micro-service/python-base:latest
 
 LABEL maintainer="Danniel"
 

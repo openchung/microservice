@@ -1,4 +1,4 @@
-FROM python:3.6
+FROM 192.168.5.128:8080/micro-service/python:3.6
 LABEL maintainer="Danniel"
 
 RUN pip install thrift
